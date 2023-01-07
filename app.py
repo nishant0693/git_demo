@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import pickle
+import sklearn
 
 st.markdown("<h1 style='text-align: left; color: red;'>Welcome to Machine Learning Model Deployment</h1>", unsafe_allow_html=True)
 
